@@ -4,7 +4,7 @@ Track daily mood, energy, sleep and stress
 with personalized insights and trend analysis.
 
 ## Live Demo
-[Click here](YOUR_STREAMLIT_URL)
+[Click here](https://mental-health-tracker-yljbfxefhgwzhajfypupws.streamlit.app)
 
 ## Features
 - Daily mood, energy, sleep, stress logging
